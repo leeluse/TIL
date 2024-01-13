@@ -1,6 +1,6 @@
 # Today  I  Learned
 
-**나의 학습 목표**
+<br />
 
 ## :heavy_check_mark: 목표
 
