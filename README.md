@@ -13,5 +13,4 @@
 
 
 ## React
-* electron
-* Next.js
+## JavaScript
