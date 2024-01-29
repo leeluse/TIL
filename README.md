@@ -12,5 +12,5 @@
 > - **무작정 프로젝트 시작하기**
 
 
-## React
-## JavaScript
+### React
+### JavaScript
