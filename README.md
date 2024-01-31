@@ -15,4 +15,4 @@
 
 ### React
 ### JavaScript
-[모던 JS Deep Dive]([https://github.com/cheese10yun/blog-sample/blob/master/batch-demo/README.md](https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)
+[모던 JS Deep Dive](https://github.com/leeluse/TIL/blob/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive/DeepDive-ch1~3-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
