@@ -15,4 +15,4 @@
 
 ### React
 ### JavaScript
-[모던 JS Deep Dive](http://www.google.co.kr).
+[모던 JS Deep Dive](github.com/leeluse/TIL/JavaScript/모던 JS DeepDive)
