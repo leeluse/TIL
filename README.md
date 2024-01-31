@@ -15,4 +15,4 @@
 
 ### React
 ### JavaScript
-[모던 JS Deep Dive](github.com/leeluse/TIL/JavaScript/모던 JS DeepDive)
+[모던 JS Deep Dive]([github.com/leeluse/TIL/JavaScript/모던 JS DeepDive](https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)
