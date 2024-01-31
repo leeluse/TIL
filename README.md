@@ -15,5 +15,4 @@
 
 ### React
 ### JavaScript
-[주소에 대한 설명]([http://www.google.co.kr](https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive).
-[모던 JS Deep Dive](())
+[모던 JS Deep Dive]([https://github.com/cheese10yun/blog-sample/blob/master/batch-demo/README.md](https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)https://github.com/leeluse/TIL/tree/main/JavaScript/%EB%AA%A8%EB%8D%98%20JS%20DeepDive)
