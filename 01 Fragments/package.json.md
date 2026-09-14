@@ -19,4 +19,4 @@ tags:
 
 ## 관련 내용
 ---
-- [[package-lock.json]]
+- [[package.json]]

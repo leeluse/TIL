@@ -12,92 +12,34 @@
             "id": "6a8f7e7b63f60c6b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "02 Notes/Npm에 라이브러리 배포하기.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Npm에 라이브러리 배포하기"
             }
           }
         ]
       },
       {
-        "id": "f761deb0a84ec7ef",
-        "type": "split",
+        "id": "ee0ad15fc035a09a",
+        "type": "tabs",
         "dimension": 49.93654822335024,
         "children": [
           {
-            "id": "ee0ad15fc035a09a",
-            "type": "tabs",
-            "dimension": 38.759689922480625,
-            "children": [
-              {
-                "id": "1c379a2b9d4b92e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 Fragments/패키지(Package).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "패키지(Package)"
-                }
-              }
-            ]
-          },
-          {
-            "id": "2ae5c135ecec7e7b",
-            "type": "tabs",
-            "dimension": 61.240310077519375,
-            "children": [
-              {
-                "id": "ed92b5729fc2690e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 Fragments/패키지(Package).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "패키지(Package)"
-                }
-              },
-              {
-                "id": "133d0f9df5a754e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 Fragments/package.json.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "package.json"
-                }
-              },
-              {
-                "id": "48d882dc1c739249",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01 Fragments/package.json.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "package.json"
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "1c379a2b9d4b92e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,36 +206,44 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "6a8f7e7b63f60c6b",
+  "active": "21a2340c0af5e022",
   "lastOpenFiles": [
+    "02 Notes/Yarn은 왜 등장했나.md",
     "01 Fragments/node_modules.md",
-    "01 Fragments/패키지(Package).md",
+    "01 Fragments/package-lock.json.md",
     "01 Fragments/ES Module vs CommonJS.md",
-    "01 Fragments/package.json.md",
-    "01 Fragments/Vite Library Mode.md",
+    "01 Fragments/패키지(Package).md",
+    "02 Notes/Npm에 라이브러리 배포하기.md",
+    "02 Notes/Npm이란 무엇인가.md",
+    "02 Notes/Vite란 무엇인가.md",
     "01 Fragments/unplugin-dts.md",
     "02 Notes/Npm 버전 관리.md",
-    "02 Notes/Npm이란 무엇인가.md",
-    "02 Notes/Yarn의 등장.md",
-    "02 Notes/Vite란 무엇인가.md",
-    "02 Notes/Npm에 라이브러리 배포하기.md",
-    "02 Notes/Yarn은 무엇인가.md",
-    "01 Fragments/package-lock.json.md",
-    "01 Fragments/Application과.md",
+    "01 Fragments/Vite Library Mode.md",
+    "01 Fragments/package.json.md",
+    "04 Maps/Npm.md",
+    "_templates/Map.md",
+    "04 Maps",
+    "03 Projects",
+    "00 Inbox",
     "99 Attachments/Pasted image 20260914160424.png",
-    "02 Notes/Npm에 라이브러리 www배포하기.md",
-    "00 Inbox/무제.base",
-    "02 Notes/Vite Library Mode.md",
-    "00 Inbox/Troubleshooting 노트 링크.md",
+    "99 Attachments",
+    "02 Notes",
+    "01 Fragments",
     "_templates/Project.md",
     "_templates/Note.md",
-    "_templates/Fragment.md",
     "_templates/Inbox.md",
-    "01 Fragments",
+    "_templates/Fragment.md",
+    "_templates",
     "AGENTS.md",
-    "02 Notes/React Server Component.md",
-    "02 Notes/React Testing Library.md",
-    "02 Notes/Storybook.md",
-    "02 Notes/package.json.md"
+    "알고리즘/ch1-우선순위 큐.md",
+    "알고리즘/ch1-스택, 큐.md",
+    "알고리즘/ch1-배열, 벡터, 연결리스트.md",
+    "알고리즘/ch1-맵, 집합.md",
+    "알고리즘",
+    "Svelte/개요.md",
+    "Svelte",
+    "React/개요.md",
+    "React",
+    "Next.js/개요.md"
   ]
 }
