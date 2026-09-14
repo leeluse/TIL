@@ -14,15 +14,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Notes/Npm에 라이브러리 배포하기.md",
-                "mode": "preview",
+                "file": "02 Notes/frontend-fundamentals/코드퀄리티/변경하기 쉬운 프론트엔드 코드를 위한 지침서.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Npm에 라이브러리 배포하기"
+              "title": "변경하기 쉬운 프론트엔드 코드를 위한 지침서"
+            }
+          },
+          {
+            "id": "b3d0e6f5ecca68bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Notes/frontend-fundamentals/코드퀄리티/가독성을 높이는 전략.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "가독성을 높이는 전략"
+            }
+          },
+          {
+            "id": "33c13748b019381f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Notes/frontend-fundamentals/코드퀄리티/가독성을 높이는 전략.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "가독성을 높이는 전략"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ee0ad15fc035a09a",
@@ -206,18 +235,32 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "21a2340c0af5e022",
+  "active": "b3d0e6f5ecca68bc",
   "lastOpenFiles": [
+    "02 Notes/frontend-fundamentals/코드퀄리티/변경하기 쉬운 프론트엔드 코드를 위한 지침서.md",
+    "02 Notes/frontend-fundamentals/코드퀄리티/가독성을 높이는 전략.md",
+    "02 Notes/frontend-fundamentals/코드퀄리티/예측 가능성을 높이는 전략.md",
+    "02 Notes/frontend-fundamentals/코드퀄리티/응집도를 높이는 전략.md",
+    "02 Notes/frontend-fundamentals/코드퀄리티/결합도를 낮추는 전략.md",
+    "02 Notes/frontend-fundamentals/코드 퀄리티.md",
+    "02 Notes/frontend-fundamentals/디버깅.md",
+    "02 Notes/frontend-fundamentals/접근성.md",
+    "02 Notes/frontend-fundamentals/접근성",
+    "02 Notes/frontend-fundamentals/번들링",
+    "02 Notes/frontend-fundamentals/디버깅",
+    "02 Notes/frontend-fundamentals/코드퀄리티",
+    "02 Notes/frontend-fundamentals/번들링.md",
+    "02 Notes/Npm 버전 관리.md",
+    "02 Notes/frontend-fundamentals",
+    "02 Notes/Vite란 무엇인가.md",
+    "02 Notes/Npm이란 무엇인가.md",
+    "02 Notes/Npm에 라이브러리 배포하기.md",
     "02 Notes/Yarn은 왜 등장했나.md",
     "01 Fragments/node_modules.md",
     "01 Fragments/package-lock.json.md",
     "01 Fragments/ES Module vs CommonJS.md",
     "01 Fragments/패키지(Package).md",
-    "02 Notes/Npm에 라이브러리 배포하기.md",
-    "02 Notes/Npm이란 무엇인가.md",
-    "02 Notes/Vite란 무엇인가.md",
     "01 Fragments/unplugin-dts.md",
-    "02 Notes/Npm 버전 관리.md",
     "01 Fragments/Vite Library Mode.md",
     "01 Fragments/package.json.md",
     "04 Maps/Npm.md",
@@ -228,22 +271,8 @@
     "99 Attachments/Pasted image 20260914160424.png",
     "99 Attachments",
     "02 Notes",
-    "01 Fragments",
     "_templates/Project.md",
     "_templates/Note.md",
-    "_templates/Inbox.md",
-    "_templates/Fragment.md",
-    "_templates",
-    "AGENTS.md",
-    "알고리즘/ch1-우선순위 큐.md",
-    "알고리즘/ch1-스택, 큐.md",
-    "알고리즘/ch1-배열, 벡터, 연결리스트.md",
-    "알고리즘/ch1-맵, 집합.md",
-    "알고리즘",
-    "Svelte/개요.md",
-    "Svelte",
-    "React/개요.md",
-    "React",
-    "Next.js/개요.md"
+    "_templates/Inbox.md"
   ]
 }
