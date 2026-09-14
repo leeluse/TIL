@@ -2,5 +2,7 @@
   "attachmentFolderPath": "99 Attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "00 Inbox",
-  "showLineNumber": true
+  "showLineNumber": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }
