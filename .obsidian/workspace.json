@@ -4,11 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b26b77224ab2d9a6",
+        "id": "cb1f8e6aa7bd9038",
         "type": "tabs",
         "children": [
           {
-            "id": "6a8f7e7b63f60c6b",
+            "id": "c0efcfa7d11997d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/이름 겹치지 않게 관리하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "이름 겹치지 않게 관리하기"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a43ad94b30f8a4a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e547eaf992fbd6a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,8 +36,37 @@
               "icon": "lucide-git-fork",
               "title": "그래프 뷰"
             }
+          },
+          {
+            "id": "7decfe1e5e779cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/함께 수정되는 파일을 같은 디렉토리에 두기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "함께 수정되는 파일을 같은 디렉토리에 두기"
+            }
+          },
+          {
+            "id": "a8e34f27f62bab19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/Props Drilling 지우기.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Props Drilling 지우기"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:toss-article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "9eb87e5dfd72a635",
@@ -95,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Notes/Component Library 배포하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Notes/Component Library 배포하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Inbox/Troubleshooting 노트 링크.md",
+                "file": "02 Notes/Component Library 배포하기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,21 +233,46 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "21a2340c0af5e022",
+  "active": "a8e34f27f62bab19",
   "lastOpenFiles": [
-    "_templates/Project.md",
-    "_templates/Note.md",
-    "_templates/Fragment.md",
-    "_templates/Inbox.md",
-    "01 Fragments",
-    "AGENTS.md",
-    "00 Inbox/Troubleshooting 노트 링크.md",
-    "02 Notes/React Server Component.md",
-    "02 Notes/React Testing Library.md",
-    "02 Notes/Storybook.md",
-    "02 Notes/package.json.md",
-    "02 Notes/GitHub Actions.md",
-    "02 Notes/Component Library.md",
-    "01 Daily/2026-09-14.md"
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/이름 겹치지 않게 관리하기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/Props Drilling 지우기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/변경하기 쉬운 프론트엔드 코드를 위한 지침서.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/함께 수정되는 파일을 같은 디렉토리에 두기.md",
+    "00 Inbox/Props Drilling.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/중복 코드 허용하기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/책임을 하나씩 관리하기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/로직 종류에 따라 합쳐진 함수 쪼개기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/폼의 응집도 생각하기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/매직 넘버 없애기.md",
+    "00 Inbox/매직 넘버.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/매직 넘버에 이름 붙이기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/숨은 로직 드러내기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/같은 종류의 함수는 반환 타입 통일하기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/왼쪽에서 오른쪽으로 읽히게 하기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/삼항 연산자 단순하게 사용하기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/시점 이동 줄이기.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/복잡한 조건에 이름 붙이기.md",
+    "03 Projects/react-design-pattern/선언적인 코드 작성하기.md",
+    "03 Projects/react-design-pattern/추상화란.md",
+    "03 Projects/react-design-pattern/HOC(Higher-Order Component).md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/같이 실행되지 않는 코드 분리하기.md",
+    "무제.canvas",
+    "99 Attachments/Pasted image 20260915141808.png",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/구현 상세 추상화하기.md",
+    "03 Projects/react-design-pattern",
+    "03 Projects/frontend-fundamentals/코드퀄리티/결합도를 낮추는 전략.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/응집도를 높이는 전략.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/예측 가능성을 높이는 전략.md",
+    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note",
+    "03 Projects/frontend-fundamentals/코드퀄리티/가독성",
+    "03 Projects/frontend-fundamentals/접근성",
+    "03 Projects/frontend-fundamentals/번들링",
+    "03 Projects/frontend-fundamentals/디버깅",
+    "03 Projects/frontend-fundamentals/코드퀄리티",
+    "03 Projects/frontend-fundamentals",
+    "04 Maps",
+    "03 Projects",
+    "99 Attachments/Pasted image 20260914160424.png"
   ]
 }
