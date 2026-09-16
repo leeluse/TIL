@@ -1,7 +1,7 @@
 ---
-tags:
-  - inbox
 aliases:
+  - design-pattern
+tags:
   - design-pattern
 ---
 HOC는 고차 컴포넌트를 의미하는데, Javascript의 고차 함수(Higher-Order Function)이랑 비슷한 개념이다
@@ -55,4 +55,4 @@ function AdminPage() {
 
 ### 연결
 ---
-[[구현 상세 추상화하기]]
+- [[구현 상세 추상화하기]]

@@ -4,5 +4,10 @@
   "newFileFolderPath": "00 Inbox",
   "showLineNumber": false,
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "foldIndent": true,
+  "rightToLeft": false
 }
