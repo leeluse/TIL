@@ -124,7 +124,7 @@ dist/
 ```
 
 Vite Library Mode는 `es`, `cjs`, `umd`, `iife` 형식을 지원하며 필요한 형식은 `formats`를 통해 지정할 수 있다
-출력 형식은 ES Module와 CommonJS 두 가지를 지원한다 ([[ES Module vs CommonJS]])
+출력 형식은 ES Module와 CommonJS 두 가지를 지원한다 ([[ESM과 CJS]])
 
 
 
@@ -312,15 +312,11 @@ tsconfig.node.json
 ![[Pasted image 20260914160424.png]]
 
 ### Reference
-
 ---
-
 [https://choewy.tistory.com/168#google_vignette](https://choewy.tistory.com/168#google_vignette)
 
 ## 연결
-
 ---
-
 - [[Npm 버전 관리]]
 - [[Vite Library Mode]]
 - [[package exports]]

@@ -2,5 +2,6 @@
   "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Noto Sans KR",
   "textFontFamily": "Noto Sans KR",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }
