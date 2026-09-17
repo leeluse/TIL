@@ -1,8 +1,7 @@
 ---
 aliases:
-  - Bundling
+  - 프론트엔드 번들링의 모든 것
 tags:
-  - toss-article
   - 번들링
   - detail-note
 ---
@@ -87,3 +86,4 @@ tags:
 - [[의존성 그래프]]
 - [[트리셰이킹(Tree Shaking)]]
 - [[코드 스플리팅]]
+- https://frontend-fundamentals.com/bundling/overview.html

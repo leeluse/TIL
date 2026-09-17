@@ -1,9 +1,8 @@
 ---
 aliases:
-  - 번들러
+  - 프론트엔드 번들링의 모든 것
 tags:
   - 번들링
-  - toss-article
   - detail-note
 ---
 ### 번들러란?
@@ -15,7 +14,7 @@ tags:
 #### 1. 파일 묶기 (Bundling)
 
 - 여러 개의 파일을 하나(또는 몇 개)로 묶어 네트워크 요청 수를 줄여 페이지 로딩 속도를 빠르게 만든다
-- 모듈 시스템(ES Modules, CommonJS 등)을 자유롭게 사용 가능하다
+- 모듈 시스템(`ES Modules`, `CommonJS` 등)을 자유롭게 사용 가능하다
 
 #### 2. 코드 변환 (Transpiling)
 
@@ -105,3 +104,9 @@ tags:
 
 - 팀에 `Webpack` 경험자가 많으면 `Webpack`을 쓰는 게 개발과 유지보수에 유리하다
 - 새로운 툴 도입에 거부감이 없고, 최신 개발 흐름을 적용하고 싶다면 `Vite`나 `esbuild`를 적극 고려해볼 수 있다
+
+
+### 관련
+---
+- [[프론트엔드 번들링의 모든 것]]
+- https://frontend-fundamentals.com/bundling/bundler.html
