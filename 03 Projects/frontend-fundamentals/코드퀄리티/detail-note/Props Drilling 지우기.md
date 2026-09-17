@@ -3,6 +3,7 @@ aliases:
   - 결합도
 tags:
   - detail-note
+  - 코드퀄리티
 ---
 [[Props Drilling]]은 부모 컴포넌트와 자식 컴포넌트 사이에 결합도가 생겼다는 것을 나타내는 명확한 표시다 만약에 Drilling되는 `name` prop의 이름이 `firstName`으로 변경되면, 해당 prop을 참조하는 모든 컴포넌트를 수정해야 한다
 
