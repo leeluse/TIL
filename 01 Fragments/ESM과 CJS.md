@@ -105,10 +105,41 @@ const result = isEqual(a, b);
 <br /><br />
 
 
-ES Module과 CommonJS 차이
+### ES Module과 CommonJS 차이
 ---
+JavaScript에는 여러 모듈 시스템이 있다 
+가장 많이 사용되는 두 가지는 ESM(ES Modules)과 CommonJS이다
+
 - `ES Module`: 현대적인 프론트엔드 프로젝트에서 사용하는 방식 Vite, Webpack, Rollup 등 최신 번들러가 지원 
 - `CommonJS`: Node.js의 기존 CommonJS 환경이나 일부 도구와 호환성을 위해 제공 가능
+
+
+### ESM (ES Modules)
+
+```js
+// 내보내기
+export const name = "값";
+export default function() { ... }
+
+// 가져오기
+import { name } from './module.js';
+import defaultFunction from './module.js';
+```
+
+### CommonJS (Node.js의 전통적인 모듈 시스템)
+
+```js
+// 내보내기
+const name = "값";
+function myFunction() { ... }
+module.exports = { name, myFunction };
+
+// 가져오기
+const { name, myFunction } = require('./module.js');
+```
+
+웹팩은 두 가지 방식 모두 지원하지만, 최신 브라우저와의 호환성을 위해 ESM을 사용하는 것이 좋다
+
 
 
 
