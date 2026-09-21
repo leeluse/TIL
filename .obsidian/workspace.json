@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Projects/frontend-fundamentals/번들링/tutorial/TypeScript 적용하기.md",
+                "file": "03 Projects/frontend-fundamentals/번들링/tutorial/개발 서버로 생산성 높이기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript 적용하기"
+              "title": "개발 서버로 생산성 높이기"
             }
           }
         ],
@@ -223,14 +223,22 @@
   },
   "active": "08998cb76c80fc92",
   "lastOpenFiles": [
-    "01 Fragments/ESM과 CJS.md",
-    "03 Projects/frontend-fundamentals/번들링/tutorial/모듈로 코드 구조화하기.md",
+    "무제 1.canvas",
+    "무제.canvas",
+    "03 Projects/frontend-fundamentals/번들링/tutorial/개발 서버로 생산성 높이기.md",
+    "03 Projects/frontend-fundamentals/번들링/tutorial/TypeScript 적용하기.md",
+    "03 Projects/frontend-fundamentals/번들링/tutorial/플러그인으로 빌드 확장하기.md",
     "03 Projects/frontend-fundamentals/번들링/웹팩으로 배우는 번들링.md",
     "03 Projects/frontend-fundamentals/번들링/프론트엔드 번들링의 모든 것.md",
-    "03 Projects/frontend-fundamentals/번들링/tutorial/TypeScript 적용하기.md",
+    "03 Projects/frontend-fundamentals/번들링/tutorial/모듈로 코드 구조화하기.md",
+    "03 Projects/frontend-fundamentals/번들링/tutorial/스타일 관리하기.md",
+    "03 Projects/frontend-fundamentals/번들링/tutorial/React 적용하기.md",
     "03 Projects/frontend-fundamentals/번들링/tutorial/웹팩 도입하고 첫 번들 생성하기.md",
-    "03 Projects/frontend-fundamentals/번들링/tutorial/플러그인으로 빌드 확장하기.md",
-    "03 Projects/frontend-fundamentals/번들링/tutorial/개발 서버로 생산성 높이기.md",
+    "99 Attachments/Pasted image 20260918155700.png",
+    "00 Inbox/바벨(Babel).md",
+    "00 Inbox/JSX.md",
+    "00 Inbox/Asset Modules.md",
+    "01 Fragments/ESM과 CJS.md",
     "03 Projects/frontend-fundamentals/번들링/detail-note/번들링(Bundling)이란.md",
     "03 Projects/frontend-fundamentals/번들링/detail-note/번들러(Bundler)란.md",
     "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/Props Drilling 지우기.md",
@@ -243,12 +251,6 @@
     "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/숨은 로직 드러내기.md",
     "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/삼항 연산자 단순하게 사용하기.md",
     "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/복잡한 조건에 이름 붙이기.md",
-    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/매직 넘버에 이름 붙이기.md",
-    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/매직 넘버 없애기.md",
-    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/로직 종류에 따라 합쳐진 함수 쪼개기.md",
-    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/구현 상세 추상화하기.md",
-    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/같이 실행되지 않는 코드 분리하기.md",
-    "03 Projects/frontend-fundamentals/코드퀄리티/detail-note/같은 종류의 함수는 반환 타입 통일하기.md",
     "03 Projects/frontend-fundamentals/번들링/tutorial",
     "99 Attachments/Pasted image 20260917172501.png",
     "99 Attachments/Pasted image 20260917172105.png",
@@ -265,7 +267,6 @@
     "03 Projects/frontend-fundamentals/코드퀄리티/detail-note",
     "03 Projects/frontend-fundamentals/코드퀄리티",
     "02 Notes",
-    "01 Fragments",
-    "무제.canvas"
+    "01 Fragments"
   ]
 }
