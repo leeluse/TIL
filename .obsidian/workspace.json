@@ -21,7 +21,8 @@
               "title": "플러그인으로 빌드 확장하기"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "407fdc3b9739780b",
@@ -61,9 +62,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
